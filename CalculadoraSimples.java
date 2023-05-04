@@ -6,7 +6,7 @@ public class CalculadoraSimples{
 
     public static void main(String[] args) {
         
-    //Declração de variáveis
+    //Declaração de variáveis
     int n1,n2, total, op;
 
     //Criação e instância objeto de entrada
